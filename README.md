@@ -60,11 +60,17 @@ Place and connect the following components:
 
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
+![WhatsApp Image 2026-03-12 at 10 41 06 AM](https://github.com/user-attachments/assets/beb140de-7c4f-47fb-aa29-f2e812c2c822)
+
+
+## Graph
+<img width="1918" height="1078" alt="Screenshot 2026-02-12 112204" src="https://github.com/user-attachments/assets/14927612-fa98-4108-9f55-5ea9850679d1" />
+
 
 
 ---
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
-
+Simulations have been made and verified
 
 
